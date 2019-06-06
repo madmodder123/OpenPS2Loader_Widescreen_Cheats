@@ -1,0 +1,9 @@
+﻿"Ace Combat Zero - The Belkan War /ID SLUS_213.46"
+Mastercode
+90307B00 0C0C1E68
+
+//widescreen fix
+203fa350 43d638f3
+203fa354 43eb7385
+
+//
