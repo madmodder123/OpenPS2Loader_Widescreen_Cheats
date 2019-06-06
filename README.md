@@ -14,7 +14,9 @@ Just make sure you go to "Cheat Settings" and change "Enable PS2RD Cheat Engine"
 
 This doesn't have every single game, and the haven't all been tested, but I am working on it. 
 
-I am converting the .pnach files from this Widescreen patch archive: https://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches
+I am converting the .pnach files from this Widescreen patch archive:
+https://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches
+
 Props to the original creators of these cheats! (Which are made for emulator use).
 
 Example:
