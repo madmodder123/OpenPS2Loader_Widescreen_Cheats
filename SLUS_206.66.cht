@@ -1,0 +1,14 @@
+﻿"Disgaea - Hour Of Darkness /ID SLUS_206.66"
+Mastercode
+901080F8 0C041FE6
+
+//Widescreen Fix
+2014d6ac 3c033f40
+2014d6b4 e7a000dc
+2014d6b8 46000003
+2014d6bc e7a000d8
+201051d4 3c013f40
+201051d8 44810000
+201051e0 4600c602
+
+//

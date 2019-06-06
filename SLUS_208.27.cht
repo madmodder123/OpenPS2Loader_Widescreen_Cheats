@@ -1,0 +1,10 @@
+﻿"Manhunt /ID SLUS_208.27"
+Mastercode
+903506F8 0C0D4166
+
+//Widescreen hack 16:9
+205e0664 00000000
+20548ec8 3f6eeeee
+20548ecc 3f0c0000
+
+//
