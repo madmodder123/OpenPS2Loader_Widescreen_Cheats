@@ -10,6 +10,8 @@ These cheats will give you the best experience!
 
 These work with OpenPS2Loader 0.9.3 (The latest stable build) and I have tested it on the current (as of 6/6/19) dev build 1564_DB-TA_all which also worked fine.
 
+I am testing these on a FAT (v9) PS2 using FMCB.
+
 Just make sure you go to "Cheat Settings" and change "Enable PS2RD Cheat Engine" to "On" and change "PS2RD Cheat Engine Mode" to "Auto-select cheats".
 
 This doesn't have every single game, and the haven't all been tested, but I am working on it. 
