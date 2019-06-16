@@ -1,0 +1,29 @@
+﻿"Yu-Gi-Oh! The Duelists of the Roses /ID SLUS_205.15"
+Mastercode
+9017E010 0C05F7AC
+//90192B94 0C0661E4
+//901000DC 0C085EC0
+
+//Widescreen 16:9
+//X 21FE0528 3F400000 - need render fix
+//Y -- works fine?
+21fe052c 3fa06d3a
+//different Y 20326194 3FAAAAAA - works fine as well?
+//Zoom Correction for Y
+//doesn't work for cards when they fight, soo they fill up the screen(looks ok actually), but works for everything else
+21fe0524 44160000
+
+//Game fixes(workarounds):
+//fix for the zoom graphic glitch(you can additionally also change EE/IOP rounding to negative and clamping to extra+preserve sign, but I didn't really saw much if any improvement of doing it;p)
+d1fe04f0 00000000
+21fe04f0 3727c5ac
+
+//Duel Master(use only one code) in custom duel:
+//T
+//203173ac 00000003
+//S
+//203173ac 00000002
+//I
+//203173ac 00000004
+
+//
