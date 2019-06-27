@@ -8,4 +8,7 @@ Mastercode
 20143d10 3c033fa0
 20143d14 3c023f20
 
+//Force 4:3 aspect to fix widescreen
+20A50944 00000000
+
 //

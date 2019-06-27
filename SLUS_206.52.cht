@@ -3,13 +3,14 @@ Mastercode
 9010ED00 0C043AE8
 
 //wide
-
 201cf514 8f828ff8
 201cf518 14400005
 201cf51c 3c040045
 201cf520 0c0776c8
 201cf524 24842c32
 201cf528 0c077680
+//line below was missing a character so I added a 0 at the beginning
+201cf52c 0af828ff
 201cf530 8f848ff8
 201cf534 3c060045
 201cf538 0000282d

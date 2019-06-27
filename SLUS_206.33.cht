@@ -8,8 +8,21 @@ Mastercode
 //FMV's fix by nemesis2000
 218bd568 3c026fa0
 218bd5b8 34028260
+218bcf38 3c026fa0
+218bcf84 34028260
 
 //black borders fix by nemesis2000
 218f37e4 3c030000
+
+//remove black square near Panic Meter
+2041c240 00000000
+
+//remove Panic Meter
+//20417f80 00000000
+//2041a53c 00000000
+//2041a880 00000000
+//2041a8bc 00000000
+//20419e00 00000000
+//20419e24 00000000
 
 //

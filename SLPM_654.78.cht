@@ -14,4 +14,7 @@ Mastercode
 //menu cursor width
 20214124 3c013f40
 
+//force disable Japanese subtitles
+20385DF4 00000001
+
 //

@@ -8,8 +8,12 @@ Mastercode
 20488468 4600c602
 204b6b44 3c0143f0
 
-//FMV fix
+//FMV's fix
 204c4be4 24101e00
 204c4d98 24110190
+
+//Font width
+207310ec 3f400000
+207321bc 3f400000
 
 //

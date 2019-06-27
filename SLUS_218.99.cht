@@ -2,7 +2,7 @@
 Mastercode
 9042A360 0C10A880
 
-//wide
+//widescreen fix
 202c4524 3c013faa
 202c4528 3421aaaa
 202c4534 46036302
@@ -16,5 +16,11 @@ Mastercode
 202c4554 3c013eaa
 202c4558 3421aaab
 202c455c 44810000
+
+//fastboot widescreen
+203890e0 24020002
+
+//noise off
+2047abc0 00000000
 
 //

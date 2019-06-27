@@ -5,11 +5,11 @@ Mastercode
 //gameplay
 2032652c 3f400000
 
-//FMW's fix
+//FMV's fix
 2036ea30 44200000
 2036ea38 3e333333
 
-//dfghsdgh
+//wide
 20216ea0 0c09c1ac
 20216ea4 c5e10000
 20216ea8 8faf00b0
@@ -29,45 +29,13 @@ Mastercode
 20216ee0 448e0800
 20216ee4 46800860
 
-//Dither Effect Off
-//patch=1,EE,00156cb4,word,00000000
-
-//Focus Effect Off
-20156cfc 00000000
-
-//other effects on/off
-//patch=1,EE,00156ccc,word,00000000
-//patch=1,EE,00156ce4,word,00000000
-//patch=1,EE,00156d14,word,00000000
-//patch=1,EE,00156d2c,word,00000000
-//patch=1,EE,00156d44,word,00000000
-//patch=1,EE,00156d5c,word,00000000
-//patch=1,EE,00156d74,word,00000000
-//patch=1,EE,00156d90,word,00000000
-//patch=1,EE,00156dcc,word,00000000
-//patch=1,EE,00156df4,word,00000000
-//patch=1,EE,00156e0c,word,00000000
-//patch=1,EE,00156e24,word,00000000
-//patch=1,EE,00156e3c,word,00000000
-//patch=1,EE,00156e54,word,00000000
-//patch=1,EE,00156e6c,word,00000000
-//patch=1,EE,00156e84,word,00000000
-//patch=1,EE,00156e9c,word,00000000
-//patch=1,EE,00156eb4,word,00000000
-//patch=1,EE,00156ecc,word,00000000
-//patch=1,EE,00156ee4,word,00000000
-//patch=1,EE,00156efc,word,00000000
-//patch=1,EE,00156f14,word,00000000
-//patch=1,EE,00156f2c,word,00000000
-//patch=1,EE,00156f44,word,00000000
-
 //Lens Flare's fix
 2016c60c 0c060269
 2016c50c 0c060269
 2016c56c 0c060269
 2016c5b0 0c060269
 
-//dxfg
+//wide
 201809a4 3c013f40
 201809a8 44810800
 201809ac 46016302
