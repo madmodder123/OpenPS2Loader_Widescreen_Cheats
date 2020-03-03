@@ -24,6 +24,6 @@ Props to the original creators of these cheats! (Which are made for emulator use
 Example:
 <img src="https://i.imgur.com/gYElt.giff">
 
-Here is a short list of games added: https://www.dropbox.com/s/5j2zxu68003jubw/Games.xlsx?dl=0
+Here is a short list of games added: https://www.dropbox.com/s/5j2zxu68003jubw/Games.xlsx?dl=1
 
 I update it as I go and i'll make it more final once all of them are tested and verified.
