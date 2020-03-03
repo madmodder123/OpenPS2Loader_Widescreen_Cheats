@@ -14,7 +14,7 @@ I am testing these on a FAT (v9) PS2 using FMCB.
 
 Just make sure you go to "Cheat Settings" and change "Enable PS2RD Cheat Engine" to "On" and change "PS2RD Cheat Engine Mode" to "Auto-select cheats".
 
-This doesn't have every single game, and the haven't all been tested, but I am working on it. 
+This doesn't have every single game, and they haven't all been tested, but I am working on it. 
 
 I am converting the .pnach files from this Widescreen patch archive:
 https://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches
