@@ -1,0 +1,37 @@
+#made by https://github.com/israpps for https://github.com/madmodder123/OpenPS2Loader_Widescreen_Cheats
+name: Release-WideScreen-Cheats
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+  #schedule:
+  # - cron: "0 15 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - uses: actions/checkout@v1
+    - name: Zip Folder
+      run: |
+        SCH=${GITHUB_SHA::7}
+        echo commit $SCH >>commit.txt
+        echo commit $SCH
+        zip -r OpenPS2Loader_Widescreen_cheats-$SCH.zip *
+        ls
+    
+    - name: Upload WideScreen hacks package
+      if: ${{ success() }}
+      uses: actions/upload-artifact@v2
+      with:
+        name: Widescreen-Hacks
+        path: '*.zip'
+ 
+    - name: Create release
+      uses: marvinpinto/action-automatic-releases@latest
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        title: "automated Repack"
+        files: |
+                *.zip
