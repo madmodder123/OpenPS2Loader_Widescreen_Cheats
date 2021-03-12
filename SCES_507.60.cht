@@ -2,6 +2,10 @@
 Mastercode
 902658B8 0C0995D6
 
+//HDTV fix - useful on real hardware, forces 480i since many HDTVs cannot display 240p
+//2025b68c 3c050001
+//2025b69c 3c070001
+
 //widescreen
 20114dd0 3c013f40
 20114dd4 4481c000
