@@ -1,0 +1,14 @@
+"Tekken 4 /ID SCES_508.78"
+Mastercode
+90281F68 0C0A0782
+
+//comment=Widescreen Hack by Nemesis2000
+//comment=Ported to PAL by ElHecht
+
+// 16:9
+202177e0 3c013f40
+202015d4 3c013f40
+202015d8 44810000
+202015e4 46006303
+2018d408 3c0143d6
+201f7028 3c013f40
