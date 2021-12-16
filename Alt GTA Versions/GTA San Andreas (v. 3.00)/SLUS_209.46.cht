@@ -1,0 +1,17 @@
+﻿"GTA - San Andreas /ID SLUS_209.46"
+Mastercode
+9053F210 0C14FC2C
+//90245778 0C155B64
+
+//widescreen fix
+201130bc 3c013f9d
+201130c0 44810000
+201130c4 46006302
+201130c8 03e00008
+201130cc e78c9a90
+
+//widescreen fix2
+2021dfe4 0c044c2f
+20242db4 0c044c32
+
+//
